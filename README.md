@@ -10,11 +10,12 @@ TEAM members `incomplete`
 | Ashmita Barnwal | 27 | CORE|[Ashmita-15](https://github.com/Ashmita-15)||
 | Sneha | 27 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
+| Arpita Nath | 26 | CORE |[arpi2003ta](https://github.com/arpi2003ta)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
-
+||||[](https://github.com/)||
 
